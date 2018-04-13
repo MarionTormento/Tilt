@@ -1,8 +1,8 @@
 # Tilt
 HCARD Project @Imperial College 2018
 
-Author : Marion Tormento
-Co-Author : Louis Rouillard 
+Author: Marion Tormento, Louis Rouillard 
+Co-Author: Anna Bernbaum, Jenna Luchak, Adina van Messel
 
 Based on the work of Lee Robinson (https://github.com/leerob/Space_Invaders)
 
